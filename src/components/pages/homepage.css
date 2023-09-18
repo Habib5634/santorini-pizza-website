@@ -1,0 +1,1017 @@
+
+.pizza1{
+    position: absolute;
+    top: 0;
+    left:120px;
+
+    margin-top: -170px;
+    height: 400px;
+    width: 400px;
+}
+
+
+
+.circle1{
+    position: absolute;
+    top: 0;
+    left:0;
+    margin-top: -170px;
+    margin-left: 110px;
+    
+    width: 350px;
+}
+.circle2{
+    position: absolute;
+    top: 0;
+    left:0;
+    margin-top: -190px;
+    margin-left: 85px;
+    
+    width: 400px;
+}
+.dot1{
+    position: absolute;
+    top: 0;
+    left:0;
+    margin-top: -50px;
+    margin-left: 85px;
+}
+.dot2{
+    position: absolute;
+    top: 0;
+    left:0;
+    margin-top: -100px;
+    margin-left: 110px;
+}
+.dot3{
+    position: absolute;
+    top: 0;
+    left:0;
+    margin-top: -170px;
+    margin-left: 180px;
+}
+.dot4{
+    position: absolute;
+    top: 0;
+    left:0;
+    margin-top: -195px;
+    margin-left: 250px;
+}
+.dot5{
+    position: absolute;
+    top: 0;
+    left:0;
+    margin-top: -180px;
+    margin-left: 350px;
+}
+.dot6{
+    position: absolute;
+    top: 96px;
+    left:170px;
+    margin-top: -220px;
+    margin-left: 260px;
+}
+.dot7{
+    position: absolute;
+    top:260px;
+    left:208px;
+    margin-top: -300px;
+    margin-left: 265px;
+}
+
+
+.olive1{
+    position: absolute;
+    top: 0;
+    left:0;
+    margin-top: -130px;
+    margin-left: -50px;
+    height: 150px;
+    width: 150px;
+}
+.olive2{
+    position: absolute;
+    top: 0;
+    left:0;
+    margin-top: -200px;
+    margin-left: -20px;
+    height: 150px;
+    width: 150px;
+}
+.peppers1{
+    position: absolute;
+    top: 0;
+    left:0;
+    margin-top: -280px;
+    margin-left: 100px;
+    height: 100px;
+    width: 100px;
+}
+.peppers2{
+    position: absolute;
+    top: 0;
+    left:0;
+    margin-top: -330px;
+    margin-left: 200px;
+    height: 120px;
+    width: 120px;
+}
+.paparoni{
+    position: absolute;
+    top: 0;
+    left:0;
+    margin-top: -320px;
+    margin-left: 340px;
+}
+.chicken{
+    position: absolute;
+    top: 96px;
+    left:128px;
+    margin-top: -330px;
+    margin-left: 320px;
+    height: 80px;
+    width: 80px;
+}
+.beaf{
+    position: absolute;
+    top:260px;
+    left:208px;
+    margin-top: -360px;
+    margin-left: 300px;
+    height: 80px;
+    width: 80px;
+}
+
+.olive1text{
+    position: absolute;
+    top: 0;
+    left:0;
+    font-size: 20px;
+    margin-top: -50px;
+    margin-left: 40px;
+    transform: rotate(280deg);
+}
+.olive2text{
+    position: absolute;
+    top: 0;
+    left:0;
+    font-size: 20px;
+    margin-top: -120px;
+    margin-left: 50px;
+    transform: rotate(300deg);
+}
+.peppers1text{
+    position: absolute;
+    top: 0;
+    left:0;
+    font-size: 20px;
+    margin-top: -200px;
+    margin-left: 140px;
+    transform: rotate(320deg);
+}
+.peppers2text{
+    position: absolute;
+    top: 0;
+    left:0;
+    font-size: 20px;
+    margin-top: -230px;
+    margin-left: 230px;
+    transform: rotate(360deg);
+}
+.paparonitext{
+    position: absolute;
+    top: 0;
+    left:0;
+    font-size: 20px;
+    margin-top: -220px;
+    margin-left: 330px;
+    transform: rotate(25deg);
+}
+.chickentext{
+    position: absolute;
+    top: 96px;
+    left:128px;
+    font-size: 20px;
+    margin-top: -240px;
+    margin-left: 300px;
+    transform: rotate(55deg);
+}
+.beaftext{
+    position: absolute;
+    top:260px;
+    left:208px;
+    font-size: 20px;
+    margin-top: -320px;
+    margin-left: 270px;
+    transform: rotate(75deg);
+}
+
+.tomato{
+    height: 75px;
+    width: 75px;
+   
+}
+.pnghut{
+    visibility: hidden;
+
+}
+.karolina{
+    visibility: hidden;
+}
+
+
+@media (min-width: 600px){
+.pizza1{
+    position: absolute;
+    top: 0;
+    left:200px;
+
+    margin-top: -200px;
+    height: 500px;
+    width: 450px;
+}
+
+
+
+.circle1{
+    position: absolute;
+    top: 0;
+    left:0;
+    margin-top: -190px;
+    margin-left: 180px;
+    
+    width: 400px;
+}
+.circle2{
+    position: absolute;
+    top: 0;
+    left:0;
+    margin-top: -220px;
+    margin-left: 160px;
+    
+    width: 450px;
+}
+.dot1{
+    position: absolute;
+    top: 0;
+    left:0;
+    margin-top: -60px;
+    margin-left: 160px;
+}
+.dot2{
+    position: absolute;
+    top: 0;
+    left:0;
+    margin-top: -140px;
+    margin-left: 200px;
+}
+.dot3{
+    position: absolute;
+    top: 0;
+    left:0;
+    margin-top: -200px;
+    margin-left: 280px;
+}
+.dot4{
+    position: absolute;
+    top: 0;
+    left:0;
+    margin-top: -225px;
+    margin-left: 380px;
+}
+.dot5{
+    position: absolute;
+    top: 0;
+    left:0;
+    margin-top: -200px;
+    margin-left: 490px;
+}
+.dot6{
+    position: absolute;
+    top: 96px;
+    left:170px;
+    margin-top: -240px;
+    margin-left: 380px;
+}
+.dot7{
+    position: absolute;
+    top:260px;
+    left:208px;
+    margin-top: -330px;
+    margin-left: 385px;
+}
+
+
+.olive1{
+    position: absolute;
+    top: 0;
+    left:0;
+    margin-top: -160px;
+    margin-left: 5px;
+    height: 180px;
+    width: 180px;
+}
+.olive2{
+    position: absolute;
+    top: 0;
+    left:0;
+    margin-top: -250px;
+    margin-left: 40px;
+    height: 180px;
+    width: 180px;
+}
+.peppers1{
+    position: absolute;
+    top: 0;
+    left:0;
+    margin-top: -320px;
+    margin-left: 160px;
+}
+.peppers2{
+    position: absolute;
+    top: 0;
+    left:0;
+    margin-top: -380px;
+    margin-left: 300px;
+}
+.paparoni{
+    position: absolute;
+    top: 0;
+    left:0;
+    margin-top: -340px;
+    margin-left: 480px;
+}
+.chicken{
+    position: absolute;
+    top: 96px;
+    left:128px;
+    margin-top: -350px;
+    margin-left: 450px;
+    height: 100px;
+    width: 100px;
+}
+.beaf{
+    position: absolute;
+    top:260px;
+    left:208px;
+    margin-top: -380px;
+    margin-left: 430px;
+    height: 100px;
+    width: 100px;
+}
+
+.olive1text{
+    position: absolute;
+    top: 0;
+    left:0;
+    font-size: 20px;
+    margin-top: -70px;
+    margin-left: 120px;
+    transform: rotate(280deg);
+}
+.olive2text{
+    position: absolute;
+    top: 0;
+    left:0;
+    font-size: 20px;
+    margin-top: -160px;
+    margin-left: 150px;
+    transform: rotate(300deg);
+}
+.peppers1text{
+    position: absolute;
+    top: 0;
+    left:0;
+    font-size: 20px;
+    margin-top: -230px;
+    margin-left: 240px;
+    transform: rotate(320deg);
+}
+.peppers2text{
+    position: absolute;
+    top: 0;
+    left:0;
+    font-size: 20px;
+    margin-top: -270px;
+    margin-left: 360px;
+    transform: rotate(360deg);
+}
+.paparonitext{
+    position: absolute;
+    top: 0;
+    left:0;
+    font-size: 20px;
+    margin-top: -240px;
+    margin-left: 460px;
+    transform: rotate(25deg);
+}
+.chickentext{
+    position: absolute;
+    top: 96px;
+    left:128px;
+    font-size: 20px;
+    margin-top: -270px;
+    margin-left: 420px;
+    transform: rotate(55deg);
+}
+.beaftext{
+    position: absolute;
+    top:260px;
+    left:208px;
+    font-size: 20px;
+    margin-top: -350px;
+    margin-left: 400px;
+    transform: rotate(75deg);
+}
+
+.tomato{
+    height: 75px;
+    width: 75px;
+   
+}
+.pnghut{
+    visibility: hidden;
+
+}
+.karolina{
+    visibility: hidden;
+}
+}
+@media (min-width: 777px){
+.pizza1{
+    left:240px;
+    margin-top: -250px;
+    height: 700px;
+    width: 600px;
+}
+
+
+
+.circle1{
+    margin-top: -240px;
+    margin-left: 230px; 
+    width: 500px;
+}
+.circle2{
+    margin-top: -270px;
+    margin-left: 200px;
+    width: 550px;
+}
+.dot1{
+
+    margin-top: -70px;
+    margin-left: 200px;
+}
+.dot2{
+    margin-top: -160px;
+    margin-left: 245px;
+}
+.dot3{
+    margin-top: -240px;
+    margin-left: 330px;
+}
+.dot4{
+    margin-top: -270px;
+    margin-left: 420px;
+}
+.dot5{
+    margin-top: -260px;
+    margin-left: 570px;
+}
+.dot6{
+
+    top: 96px;
+    left:170px;
+    margin-top: -280px;
+    margin-left: 510px;
+}
+.dot7{
+    top:260px;
+    left:208px;
+    margin-top: -340px;
+    margin-left: 525px;
+}
+.olive1{
+    margin-top: -180px;
+    margin-left: 20px;
+}
+.olive2{
+    margin-top: -300px;
+    margin-left: 90px;
+}
+.peppers1{
+    margin-top: -370px;
+    margin-left: 220px;
+}
+.peppers2{
+    margin-top: -430px;
+    margin-left: 350px;
+}
+.paparoni{
+    margin-top: -410px;
+    margin-left: 550px;
+}
+.chicken{
+    top: 96px;
+    left:128px;
+    margin-top: -400px;
+    margin-left: 599px;
+}
+.beaf{
+    top:260px;
+    left:208px;
+    margin-top: -413px;
+    margin-left: 590px;
+}
+
+.olive1text{
+    margin-top: -80px;
+    margin-left: 160px;
+    transform: rotate(280deg);
+}
+.olive2text{
+    margin-top: -180px;
+    margin-left: 190px;
+    transform: rotate(300deg);
+}
+.peppers1text{
+    margin-top: -280px;
+    margin-left: 290px;
+    transform: rotate(320deg);
+}
+.peppers2text{
+    margin-top: -310px;
+    margin-left: 400px;
+    transform: rotate(360deg);
+}
+.paparonitext{
+    font-size: 20px;
+    margin-top: -300px;
+    margin-left: 550px;
+    transform: rotate(25deg);
+}
+.chickentext{
+    top: 96px;
+    left:128px;
+    font-size: 20px;
+    margin-top: -310px;
+    margin-left: 550px;
+    transform: rotate(55deg);
+}
+.beaftext{
+    top:260px;
+    left:208px;
+    font-size: 20px;
+    margin-top: -350px;
+    margin-left: 540px;
+    transform: rotate(75deg);
+}
+
+.tomato{
+    height: 75px;
+    width: 75px;
+   
+}
+.pnghut{
+    visibility: hidden;
+
+}
+}
+
+
+@media (min-width: 1087px){
+
+.pizza1{
+    left:240px;
+    margin-top: -300px;
+    height: 900px;
+    width: 800px;
+}
+
+
+
+.circle1{
+    margin-top: -275px;
+    margin-left: 220px;
+    width: 700px;
+}
+.circle2{
+    margin-top: -300px;
+    margin-left: 170px;
+    
+    width: 800px;
+}
+.dot1{
+    margin-top: -70px;
+    margin-left: 200px;
+}
+.dot2{
+    margin-top: -200px;
+    margin-left: 290px;
+}
+.dot3{
+    margin-top: -280px;
+    margin-left: 420px;
+}
+.dot4{
+    margin-top: -305px;
+    margin-left: 600px;
+}
+.dot5{
+    margin-top: -260px;
+    margin-left: 750px;
+}
+.dot6{
+    top: 96px;
+    left:170px;
+    margin-top: -280px;
+    margin-left: 685px;
+}
+.dot7{
+    top:260px;
+    left:208px;
+    margin-top: -340px;
+    margin-left: 720px;
+}
+
+
+.olive1{
+    top: 0;
+    left:0;
+    margin-top: -180px;
+    margin-left: 20px;
+}
+.olive2{
+    top: 0;
+    left:0;
+    margin-top: -340px;
+    margin-left: 140px;
+}
+.peppers1{
+    top: 0;
+    left:0;
+    margin-top: -420px;
+    margin-left: 320px;
+}
+.peppers2{
+    top: 0;
+    left:0;
+    margin-top: -465px;
+    margin-left: 520px;
+}
+.paparoni{
+    top: 0;
+    left:0;
+    margin-top: -410px;
+    margin-left: 750px;
+}
+.chicken{
+    top: 96px;
+    left:128px;
+    margin-top: -420px;
+    margin-left: 760px;
+}
+.beaf{
+    top:260px;
+    left:208px;
+    margin-top: -413px;
+    margin-left: 780px;
+}
+
+.olive1text{
+    margin-top: -80px;
+    margin-left: 160px;
+    transform: rotate(290deg);
+}
+.olive2text{
+    margin-top: -220px;
+    margin-left: 240px;
+    transform: rotate(315deg);
+}
+.peppers1text{
+    margin-top: -320px;
+    margin-left: 380px;
+    transform: rotate(330deg);
+}
+.peppers2text{
+    margin-top: -340px;
+    margin-left: 580px;
+    transform: rotate(360deg);
+}
+.paparonitext{
+    margin-top: -300px;
+    margin-left: 720px;
+    transform: rotate(25deg);
+}
+.chickentext{
+    top: 96px;
+    left:128px;
+    margin-top: -310px;
+    margin-left: 730px;
+    transform: rotate(45deg);
+}
+.beaftext{
+    top:260px;
+    left:208px;
+    font-size: 20px;
+    margin-top: -350px;
+    margin-left: 735px;
+    transform: rotate(65deg);
+}
+
+.tomato{
+    height: 100px;
+    width: 100px;
+   
+}
+.pnghut{
+    width: 180px;
+    height: 180px;
+
+}
+
+}
+@media (min-width: 1237px){
+    .pizza1{
+    left:350px;
+    margin-top: -300px;
+    height: 900px;
+    width: 900px;
+}
+
+
+
+.circle1{
+    margin-top: -275px;
+    margin-left: 315px;
+    
+    width: 800px;
+}
+.circle2{
+    margin-top: -300px;
+    margin-left: 285px;
+    
+    width: 850px;
+}
+.dot1{
+    margin-top: -60px;
+    margin-left: 320px;
+}
+.dot2{
+    margin-top: -200px;
+    margin-left: 425px;
+}
+.dot3{
+    margin-top: -280px;
+    margin-left: 550px;
+}
+.dot4{
+    margin-top: -310px;
+    margin-left: 720px;
+}
+.dot5{
+    margin-top: -265px;
+    margin-left: 890px;
+}
+.dot6{
+    top: 96px;
+    left:170px;
+    margin-top: -280px;
+    margin-left: 830px;
+}
+.dot7{
+    top:260px;
+    left:208px;
+    margin-top: -320px;
+    margin-left: 880px;
+}
+
+
+.olive1{
+    margin-top: -180px;
+    margin-left: 130px;
+}
+.olive2{
+    margin-top: -360px;
+    margin-left: 270px;
+}
+.peppers1{
+    margin-top: -420px;
+    margin-left: 460px;
+}
+.peppers2{
+    margin-top: -465px;
+    margin-left: 660px;
+}
+.paparoni{
+    margin-top: -410px;
+    margin-left: 880px;
+}
+.chicken{
+    top: 96px;
+    left:128px;
+    margin-top: -420px;
+    margin-left: 920px;
+}
+.beaf{
+    top:260px;
+    left:208px;
+    margin-top: -413px;
+    margin-left: 930px;
+}
+
+.olive1text{
+    margin-top: -80px;
+    margin-left: 280px;
+    transform: rotate(290deg);
+}
+.olive2text{
+    margin-top: -230px;
+    margin-left: 370px;
+    transform: rotate(315deg);
+}
+.peppers1text{
+    margin-top: -310px;
+    margin-left: 510px;
+    transform: rotate(330deg);
+}
+.peppers2text{
+    margin-top: -340px;
+    margin-left: 700px;
+    transform: rotate(360deg);
+}
+.paparonitext{
+    margin-top: -300px;
+    margin-left: 850px;
+    transform: rotate(20deg);
+}
+.chickentext{
+    top: 96px;
+    left:128px;
+    font-size: 20px;
+    margin-top: -320px;
+    margin-left: 870px;
+    transform: rotate(40deg);
+}
+.beaftext{
+    top:260px;
+    left:208px;
+    font-size: 20px;
+    margin-top: -350px;
+    margin-left: 900px;
+    transform: rotate(55deg);
+}
+.tomato{
+    height: 150px;
+    width: 150px;
+   
+}.pnghut{
+    width: 240px;
+    height: 240px;
+
+}
+
+}
+
+@media (min-width: 1650px){
+    .pizza1{
+    left:500px;
+    margin-top: -300px;
+    height: 900px;
+    width: 900px;
+}
+
+
+
+.circle1{
+    margin-top: -275px;
+    margin-left: 470px;
+    
+    width: 800px;
+}
+.circle2{
+    margin-top: -300px;
+    margin-left: 420px;
+    
+    width: 900px;
+}
+.dot1{
+    margin-top: -60px;
+    margin-left: 465px;
+}
+.dot2{
+    margin-top: -180px;
+    margin-left: 550px;
+}
+.dot3{
+    margin-top: -270px;
+    margin-left: 680px;
+}
+.dot4{
+    margin-top: -310px;
+    margin-left: 850px;
+}
+.dot5{
+    margin-top: -275px;
+    margin-left: 1030px;
+}
+.dot6{
+    top: 96px;
+    left:170px;
+    margin-top: -290px;
+    margin-left: 990px;
+}
+.dot7{
+    top:260px;
+    left:208px;
+    margin-top: -325px;
+    margin-left: 1055px;
+}
+
+
+.olive1{
+    margin-top: -180px;
+    margin-left: 270px;
+}
+.olive2{
+    margin-top: -340px;
+    margin-left: 380px;
+}
+.peppers1{
+    margin-top: -415px;
+    margin-left: 575px;
+}
+.peppers2{
+    margin-top: -465px;
+    margin-left: 790px;
+}
+.paparoni{
+    margin-top: -450px;
+    margin-left: 1040px;
+}
+.chicken{
+    top: 96px;
+    left:128px;
+    margin-top: -430px;
+    margin-left: 1070px;
+}
+.beaf{
+    top:260px;
+    left:208px;
+    margin-top: -413px;
+    margin-left: 1120px;
+}
+
+.olive1text{
+    margin-top: -80px;
+    margin-left: 420px;
+    transform: rotate(290deg);
+}
+.olive2text{
+    margin-top: -210px;
+    margin-left: 490px;
+    transform: rotate(315deg);
+}
+.peppers1text{
+    margin-top: -310px;
+    margin-left: 630px;
+    transform: rotate(330deg);
+}
+.peppers2text{
+    margin-top: -350px;
+    margin-left: 830px;
+    transform: rotate(360deg);
+}
+.paparonitext{
+    margin-top: -330px;
+    margin-left: 1000px;
+    transform: rotate(20deg);
+}
+.chickentext{
+    top: 96px;
+    left:128px;
+    font-size: 20px;
+    margin-top: -330px;
+    margin-left: 1040px;
+    transform: rotate(40deg);
+}
+.beaftext{
+    top:260px;
+    left:208px;
+    font-size: 20px;
+    margin-top: -350px;
+    margin-left: 1080px;
+    transform: rotate(65deg);
+}
+.tomato{
+    height: 150px;
+    width: 150px;
+   
+}.pnghut{
+    width: 240px;
+    height: 240px;
+
+}
+
+} 
+
